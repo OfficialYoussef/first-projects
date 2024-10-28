@@ -1,6 +1,7 @@
 # first-projects
 my first projects created simple with cpp and python 
-## bruceforce create number with <span style="color:blue;">c++</span>.
+## bruceforce create number with 
+<span style="color:blue;">c++</span>.
 ### C++ Code Description
 
 This C++ code defines a function called `hdou` that takes three parameters: `p` (an integer), `o` (a character), and `jo` (a string). The function is used to perform a simple number range creation and file handling task.
