@@ -17,3 +17,4 @@ int main(){
 }
 ```
 In the `main` function, the `hdou` function is called with placeholder values for `p`, `o`, and `jo`. You can replace these values with actual input if needed.
+here use [file code](https://github.com/OfficialYoussef/first-projects/blob/main/NumBruce.cpp).
