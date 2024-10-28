@@ -16,6 +16,4 @@ int main(){
     hdou(p,o,jo);
 }
 ```
-
 In the `main` function, the `hdou` function is called with placeholder values for `p`, `o`, and `jo`. You can replace these values with actual input if needed.
-```
