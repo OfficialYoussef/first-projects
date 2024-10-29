@@ -19,11 +19,11 @@ int main(){
 In the `main` function, the `hdou` function is called with placeholder values for `p`, `o`, and `jo`. You can replace these values with actual input if needed.
 here use [file code](https://github.com/OfficialYoussef/first-projects/blob/main/NumBruce.cpp).
 # second-project
-# Python Interactive Program
+## Python Interactive Program
 
 This is my first project using Python, created in 2020. The program offers a simple text-based menu to interact with a calculator, calendar, question prompts, identity card generator, and a "hello" greeting section. This interactive program allows users to perform mathematical calculations, view a calendar, answer questions, and even simulate filling out a simple identity card.
 
-## Features
+### Features
 
 - **Calculator**: Basic arithmetic operations (+, -, *, /).
 - **Calc**: Advanced arithmetic options using multiple numbers and operators.
@@ -92,4 +92,4 @@ Choose `hello` to create a simulated identity card. The program will prompt for:
 
 ### Help
 Typing `help` displays an introductory message about the program 
-
+here use [file code](https://github.com/OfficialYoussef/first-projects/blob/main/Basic_py.py).
